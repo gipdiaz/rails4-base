@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "description": "",
+  "logo": "",
+  "repository": "",
+  "keywords": [
+    "Bootstrap",
+    "Ruby",
+    "Rails"
+  ],
+  "scripts": {},
+  "env": {
+    "RAILS_ENV": "production"
+  }
+}

@@ -1,0 +1,25 @@
+es:
+  activemodel:
+    attributes:
+      car_filter:
+        query: 'Buscar'
+      brand_filter:
+        query: 'Buscar'
+
+  activerecord:
+    attributes:
+      car:
+        name: 'Nombre'
+        brand_id: 'Marca'
+        kind: 'Tipo'
+        price: 'Precio'
+        tags: 'Tags'
+        active: 'Activo'
+        observation: 'Observación'
+        build_date: 'Fecha de fabricación'
+        programed_disabled: 'Vencimiento programado'
+      brand:
+        name: 'Nombre'
+      component:
+        name: 'Nombre'
+        value: 'Valor'

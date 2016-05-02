@@ -1,0 +1,15 @@
+es:
+  errors:
+    messages:
+      taken: 'Ya fue tomado'
+      blank: 'No puede estar en blanco'
+      expired: "ha expirado, por favor pide una nueva"
+      not_found: "no encontrado"
+      already_confirmed: "ya fue confirmada. Intenta ingresar."
+      not_locked: "no ha sido bloqueada"
+      taken: "Ya a sido tomado"
+      extension_white_list_error: 'Error en el tipo de archivo'
+      too_long: 'Demasiado largo'
+      not_saved:
+        one: "Ha habido 1 error:"
+        other: "Han habido %{count} errores:"
